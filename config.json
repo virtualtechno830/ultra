@@ -1,0 +1,87 @@
+{
+
+ "Account": {
+     "Username": "JejakaTutorial",
+     "Password": "Darking1"
+     },
+ "Target Profit": "10.00000000",
+ "Target Win": "500.00000000",
+ "Lose Target": "15.00000",
+ "Interval": "10",
+ "Config": [{
+
+     "Name Bet Set": "Mining Chance 60 ‰",
+     "Base Bet": "0.01",
+     "Max Bet": "OFF",
+     "Chance": "90",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "90",
+          "Max": "95"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "2",
+              "If Win": "3"
+            }
+        },
+     "If Win": "0.97",
+     "If Lose": "1.5",
+     "Reset If Win": "1",
+     "Reset If Profit": "0.01",
+     "Interval": "100"
+     },{
+
+     "Name Bet Set": "2",
+     "Base Bet": "0",
+     "Max Bet": "Off",
+     "Chance": "90",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "90",
+          "Max": "95"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "2",
+              "If Win": "3"
+            }
+        },
+     "If Win": "0.97",
+     "If Lose": "1.5",
+     "Reset If Win": "1",
+     "Reset If Profit": "OFF",
+     "Interval": "100"
+     },{
+
+     "Name Bet Set": "3",
+     "Base Bet": "0",
+     "Max Bet": "OFF",
+     "Chance": "90",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "90",
+          "Max": "95"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "2",
+              "If Win": "3"
+            }
+        },
+     "If Win": "0.97",
+     "If Lose": "1.5",
+     "Reset If Win": "1",
+     "Reset If Profit": "OFF",
+     "Interval": "10"
+     }
+  ],
+  "User-Agent": "Android Phone / Chrome 61 [Mobile]: Mozilla/5.0 (Linux; Android 12.5; Marvel Xcore7 Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36"
+
+}
